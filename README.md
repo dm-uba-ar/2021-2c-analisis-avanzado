@@ -1,21 +1,27 @@
-# Análisis Avanzado — Segundo cuatrimestre de 2021
+# Análisis Avanzado
 
-## Prácticas
+Segundo cuatrimestre de 2021
 
-- [Práctica 1 - Supremos, ínfimos y sucesiones](practica1.pdf)
-- [Práctica 2 - Cardinalidad](practica2.pdf)
-- [Práctica 3 - Espacios métricos](practica3.pdf)
-- [Práctica 4 - Funciones continuas](practica4.pdf)
-- [Práctica 5 - Compacidad](practica5.pdf)
-- [Práctica 6 - Espacios normados](practica6.pdf)
-- [Práctica 7 - Sucesiones y series de funciones](practica7.pdf)
-- [Práctica 8 - Medida de Lebesgue](practica8.pdf)
-- [Práctica 9 - Funciones medibles e integral de Lebesgue](practica9.pdf)
+## Información importante
 
-## Otros materiales
+- Esta página permanecerá sin cambios a lo largo de la materia,
+  con excepción de la publicación de las guías prácticas.
+- Durante el transcurso de la materia nos comunicaremos a través del
+  campus de la materia, al que se accede
+  [acá](https://campus.exactas.uba.ar/course/view.php?id=2662).
+  Si desean contactarnos por correo electrónico, deben hacerlo a la cuenta de la materia:
+  [analisisavanzado2021@gmail.com](mailto:analisisavanzado2021@gmail.com).
+- Es obligatorio matricularse en la materia en el campus e inscribirse en
+  el SIU Guaraní. Ambos son independientes, con lo cual no basta con
+  anotarse a uno solo de ellos.
+- Para matricularse en la materia en el campus, el sistema les solicitará
+  una contraseña, que les enviaremos a la dirección de correo electrónico
+  registrada en el sistema de inscripciones, una vez que hayan cerrado
+  (8/8).
+  En caso de no recibirla, por favor nos escriben a la cuenta de correo de la materia.
 
-- [programa-biblio.pdf](programa-biblio.pdf)
+## Horarios y docentes
 
-## Página original
-
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2021/analisis_avanzado)
+|  |  |  |
+| --- | --- | --- |
+| Teórico-Práctica | Lu - Ju: 14 a 18 | Daniel Carando - Victoria Paternostro - Nicolás Sirolli - Iván Polasek Camilo Vazquez |
